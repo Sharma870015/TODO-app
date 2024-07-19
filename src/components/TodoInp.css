@@ -98,3 +98,22 @@ h3.perman-list {
     padding-left: 14px;
     background: white;
 }
+
+@media only screen and (max-width:575px) {
+    .center-container{
+        width: 30rem;
+    }
+    
+}
+
+@media only screen and (max-width:385px) {
+    .center-container{
+        width: 23rem;
+    }
+}
+
+@media only screen and (max-width:344px) {
+    .center-container{
+        width: 20rem;
+    }
+}
